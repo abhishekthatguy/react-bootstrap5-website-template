@@ -7,13 +7,13 @@ import s5 from '../src/assets/s5.svg';
 import s6 from '../src/assets/s6.svg';
 const ServiceData=[{
     imgSrc:s1,
-    title:"Web Site Development",
-    description:"We are Happy To Help You",
+    title:"Website & Web App Development",
+    description:"Are you looking for a boost on your sale, we are here to provide you all solution at one place",
     btnText :"Contact Us"
 },
 {
     imgSrc:s2,
-    title:"Web Apps Development",
+    title:"Stock Photography",
     description:"We are Happy To Help You",
     btnText :"Contact Us"
 },
