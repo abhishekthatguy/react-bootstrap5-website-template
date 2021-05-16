@@ -1,6 +1,6 @@
 ##running version of this app 
 
-[पंछी.com](https://github.com/aviisinghmaxx/panchhi/)
+[पंछी.com](https://panchhi.herokuapp.com/)
 
 # Intoduction to this App
 
